@@ -11,13 +11,13 @@ Alors notre chambre d'hôtes vous offrira un temps de calme et de sérenité qui
 
 Faites connaissance avec notre hébergement de cours séjour et nos aménagements. Nous sommes à votre disposition pour toute demande ou question. N'hésitez pas à nous contacter !
 
-![Etretat et ses falaises](/images/etretat.jpg)
+![Etretat et ses falaises](https://raw.githubusercontent.com/etiennecharrier/le-clos-saint-leger/main/images/etretat.jpg)
 
 **Etretat et ses falaises**
 
 Les falaises d'Etretat sont célèbres dans le monde entier. Vous aimerez les escalader des deux cotés pour avoir des vues exceptionnelles, et surtout pour les couchers de soleils...N'oubliez pas non plus le centre ville avec sa halle en bois, ses maisons pittoresques et ses restaurants.
 
-![Fécamp et ses ports](/images/fecamp.jpg)
+![Fécamp et ses ports](https://raw.githubusercontent.com/etiennecharrier/le-clos-saint-leger/main/images/fecamp.jpg)
 
 **Fécamp et ses ports**
 
@@ -25,7 +25,7 @@ Fécamp est une station balnéaire de la côte d'Albatre, avec son palais de la 
 
 Pourquoi pas un séjour en Normandie ? Si ce n'est pas trés loin de chez vous ou si c'est sur votre chemin pour une destination plus lointaine, cette région vous attends. La région est l'une des plus charmante de France avec un patrimoine exceptionnel. La Seine Maritime vous offre la mer au Nord avec ses sites normands incontournables comme Etretat ou Fécamp et la Seine au sud avec des villages comme Villequier fief de la famille Vacquerie ou Victor Hugo venait séjourner et voir sa fille Léopoldine qui malheureusement y périt noyée en Seine avec son mari ou encore Caudebec en Caux qui possède selon Henri IV l'une de ses plus belles églises de France.
 
-![Carte du pays de Caux](/images/caux.png)
+![Carte du pays de Caux](https://raw.githubusercontent.com/etiennecharrier/le-clos-saint-leger/main/images/caux.png)
 
 La Normandie est grande. Elle va du Tréport à Cherbourg. En passant par Le Havre, Rouen, Caen et le Mont Saint Michel.  Notre chambre d'hôtes est située dans le territoire nommé "Caux Vallée de Seine". Ce territoire allie le vert des champs et des arbres au bleu de la Seine. Ce pays de Caux est chargé d'Histoire qui ravira les petits et les grands par son patrimoine important et par ses lieux de curiosités.
 
